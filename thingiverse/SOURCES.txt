@@ -1,0 +1,4 @@
+Sources for CR-10 Heavy Duty Hot End Chain Links Mount
+
+Stock Ender 3 & A10 Hot End Chain Links  (http://www.thingiverse.com/thing:3132855)
+CR-10 Heavy Duty customisable modular e3D V6 mount Volcano 5015 ABL (http://www.thingiverse.com/thing:2494642)
